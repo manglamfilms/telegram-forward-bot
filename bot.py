@@ -1,8 +1,8 @@
 import asyncio
 from aiogram import Bot, Dispatcher, types
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-DESTINATION_CHAT_ID = "DESTINATION_CHAT_ID"  # जहाँ मैसेज फॉरवर्ड होगा
+BOT_TOKEN = "7414662064:AAEauJcIDlFoQGaJlLBheABK_iuB0RMkP88"
+DESTINATION_CHAT_ID = ""  # जहाँ मैसेज फॉरवर्ड होगा
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
