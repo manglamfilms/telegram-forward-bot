@@ -1,0 +1,11 @@
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment और Config Files (Sensitive Data)
+.env
+config.py
+
+# Virtual Environment (अगर हो)
+venv/
